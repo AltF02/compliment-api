@@ -22,12 +22,18 @@ func getCompliment(w http.ResponseWriter, r *http.Request)  {
 	var compliments []string
 	_ = json.Unmarshal(complimentsJson, &compliments)
 	rand.Seed(time.Now().Unix())
-	fmt.Fprintf(w, compliments[rand.Intn(len(compliments))])
+	_, err = fmt.Fprintf(w, compliments[rand.Intn(len(compliments))])
+	if err != nil {
+		fmt.Println(err)
+	}
 }
 
 
 func homeLink(w http.ResponseWriter, r *http.Request) {
-	fmt.Fprintf(w, "Welcome to the compliment api, please visit github.com/DankDumpster/Compliment-api for more info")
+	_, err := fmt.Fprintf(w, "Welcome to the compliment api, please visit github.com/DankDumpster/Compliment-api for more info")
+	if err != nil {
+		fmt.Println(err)
+	}
 }
 
 func main() {
