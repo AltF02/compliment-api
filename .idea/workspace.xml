@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21ae327f-dbbd-4a4f-beb2-1a5993371215" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1g2QKO32mZtPhuvLjeStcsiBzoM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="compliment-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1232" y="178" key="#GOPATH" timestamp="1597310158792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1232" y="178" key="#GOPATH/0.0.1920.1040@0.0.1920.1040" timestamp="1597310158792" />
+    <state x="1232" y="447" key="#GOROOT" timestamp="1597310149317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1232" y="447" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1597310149317" />
+    <state width="916" height="272" key="GridCell.Tab.0.bottom" timestamp="1597310359210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="272" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1597310359210" />
+    <state width="916" height="272" key="GridCell.Tab.0.center" timestamp="1597310359210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="272" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1597310359210" />
+    <state width="916" height="272" key="GridCell.Tab.0.left" timestamp="1597310359210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="272" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1597310359210" />
+    <state width="916" height="272" key="GridCell.Tab.0.right" timestamp="1597310359210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="916" height="272" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1597310359210" />
+    <state x="922" y="165" key="SettingsEditor" timestamp="1597310382421">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="922" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1597310382421" />
+  </component>
+</project>
