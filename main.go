@@ -22,7 +22,7 @@ func getCompliment(w http.ResponseWriter, r *http.Request)  {
 	var compliments []string
 	_ = json.Unmarshal(complimentsJson, &compliments)
 	rand.Seed(time.Now().Unix())
-	_, err = fmt.Fprintf(w, compliments[rand.Intn(len(compliments))])
+	_, err = fmt.Fprintf(w, "{\"compliment\": \"%s\"}", compliments[rand.Intn(len(compliments))])
 	if err != nil {
 		fmt.Println(err)
 	}
